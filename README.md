@@ -7,6 +7,9 @@ To explore the relationship between trader performance and market
 sentiment, uncover hidden patterns, and deliver insights that can drive smarter trading 
 strategies.
 
+## Colab Notebook authorized with access to anyone with link
+https://colab.research.google.com/drive/1Lmj4Y4KTv5U76xzotAr1bZZGnwW3Zbn0?usp=sharing
+
 ## Technologies Used
 
 - Programming Language: Python
